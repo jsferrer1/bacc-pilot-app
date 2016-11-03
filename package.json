@@ -1,0 +1,11 @@
+{
+  "name": "bacc-pilot-app",
+  "version": "1.0.0",
+  "description": "BACC Pilot App",
+  "scripts": {
+    "precache": "node_modules/sw-precache/cli.js --root=app"
+  },
+  "dependencies": {
+    "sw-precache": "^3.0.0"
+  }
+}
